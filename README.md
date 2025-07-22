@@ -13,7 +13,7 @@ red.png: A 16x16 red square for the snake and fruit.(No pictures? Make them in P
 
 Steps to Start
 
-Get the code:git clone https://github.com/avinam thakur/snake-game.git
+Get the code:git clone https://github.com/[avinam thakur](https://github.com/Avinam12/2d-maze-game-cpp.git)/snake-game.git
 cd snake-game
 
 Grab SFML:
